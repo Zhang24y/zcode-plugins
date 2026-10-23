@@ -1404,7 +1404,8 @@
       "category": "productivity",
       "author": {
         "name": "Zhang24y"
-      }
+      },
+      "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/expert-panel/icon.png"
     }
   ]
 }
