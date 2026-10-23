@@ -1394,7 +1394,7 @@
         "en": "Expert Panel Consensus Review",
         "zh-CN": "专家团共识评审"
       },
-      "version": "0.1.1",
+      "version": "0.1.2",
       "source": "./external_plugins/expert-panel",
       "description": "把重要决策交给多位不同视角专家：独立作答→真匿名互评→仲裁归纳（共识率由脚本确定性计算，不足自动加辩）→主席综合→事实复核，产出稳定一致项+明示分歧，绝不硬合成。零配置，默认用会话模型。",
       "description_i18n": {
@@ -1404,8 +1404,7 @@
       "category": "productivity",
       "author": {
         "name": "Zhang24y"
-      },
-      "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/expert-panel/icon.png"
+      }
     }
   ]
 }
